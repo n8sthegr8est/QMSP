@@ -1,0 +1,5 @@
+ChatID: #
+Users:
+	uid, Permissions, nickname
+Messages:
+	postid, uid, timestamp, linkCount, links, text

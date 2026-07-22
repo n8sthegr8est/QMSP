@@ -1,0 +1,19 @@
+ChatID: 1
+Users:
+	152, 11100111, Billy Bob
+	146, 00000111, Taco Man
+	231, 00000000, Evil Steven
+	342, 00100111, Utopia
+Messages:
+	0, 152, 1780681037, 0, , Hey guys, just made a new chat. How's it going?
+	1, 231, 1780681050, 1, M0, You smell, Billy Bob!
+	2, 146, 1780681065, 1, M1, Darn it, who let Evil Steven in here?!
+	3, 152, 1780681067, 1, M1, Why am I friends with you, again, Steven?
+	4, 231, 1780681091, 0, , You'd be lost without me!
+	5, 342, 1780681125, 0, , Dude, get Steven out of here!
+	6, 231, 1780681141, 0, , You don't want to do that!
+	7, 152, 1780681144, 0, , Fine.
+	8, 152, 1780681199, 0, , He's gone.
+	9, 146, 1780681210, 0, , Good riddance.
+	10, 342, 1780681219, 0, , Why do you keep inviting him?
+	11, 152, 1780681232, 0, , Because I'm a sucker who doesn't learn his lesson, Urbain!
