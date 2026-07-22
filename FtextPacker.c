@@ -17,15 +17,6 @@
 //one to another: <b>text<bu>text<b>text</>
 //don't format: /<x> /</>
 
-//Bold:         **text**
-//Italic:        *text*
-//Bold&Italic: ***text***
-//Underline:    __text__
-//Strikethru:   ~~text~~
-//Superscript:  ^^text^^
-//Subscript:   ^^^text^^^
-//Cancel form:\_\_text\_\_
-
 //packed formatting: {text bytes} 0x08 0xXX {text bytes} 0x08 {text bytes}
 
 //formatting id: xxxx xxxx
