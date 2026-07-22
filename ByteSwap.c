@@ -66,23 +66,3 @@ uint64_t rev_64(uint64_t orig){
 
     return rever;
 }
-
-/*int main(void){
-    uint16_t my16 = 0xF42D;
-    uint32_t my32 = 0x3425FD2A;
-    uint64_t my64 = 0xFDC23A57E2647D31;
-
-    printf("Testing byte reverse 16:\n");
-    printf("Expect: 0x2DF4\n");
-    printf("Actual: 0x%X\n",rev_16(my16));
-    
-    printf("\nTesting byte reverse 32:\n");
-    printf("Expect: 0x2AFD2534\n");
-    printf("Actual: 0x%X\n",rev_32(my32));
-
-    printf("\nTesting byte reverse 64:\n");
-    printf("Expect: 0x317D64E2573AC2FD\n");
-    printf("Actual: 0x%llX\n",(unsigned long long) rev_64(my64));
-
-    printf("Is Little Endian: %i", isLittleEndian());
-}*/
