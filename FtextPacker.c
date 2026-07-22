@@ -15,7 +15,7 @@
 //Subscript:   <v>text</>
 //multiple: <bis32cred>text</>
 //one to another: <b>text<bu>text<b>text</>
-//don't format: /<~> /</>
+//don't format: /<x> /</>
 
 //packed formatting: {text bytes} 0x08 0xXX {text bytes} 0x08 {text bytes}
 
