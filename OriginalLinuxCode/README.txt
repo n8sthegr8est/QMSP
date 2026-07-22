@@ -1,7 +1,7 @@
-I just want to preface this with an apology. I swear to you I did everything I could, but I just didn't have enough time to get everything working, and I'm not even sure it connects properly, and I can't figure out what's going wrong with it. I also didn't have time to implement my DFA. Unfortunately, other school work got in the way heavily. I am sorry. This is what I was able to complete.
+Bug Notice - Code does not properly establish connection at present. Will be fixed in the future.
 
 
-In order to run the actual program, you can simply unzip the folder, keeping everything in the same location it already is, and simply type make. You can then run ./QUICchat to try running the program. If you get an error on the first attempt, enter the command "export LD_LIBRARY_PATH=./msquiclib/lib" and try again.
+In order to run the program, simply type make. You can then run ./QUICchat to try running the program. If you get an error on the first attempt, enter the command "export LD_LIBRARY_PATH=./msquiclib/lib" and try again.
 
 
 You can also build my many different testing files to verify the correctness of many of my code's functions:
