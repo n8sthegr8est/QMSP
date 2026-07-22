@@ -1,5 +1,7 @@
 Bug Notice - Code does not properly establish connection at present. Will be fixed in the future.
 
+Additionally, code was written for Linux OS and assumes GCC is the compiler. May not work properly on other OS or compilers.
+
 
 In order to run the program, simply type make. You can then run ./QUICchat to try running the program. If you get an error on the first attempt, enter the command "export LD_LIBRARY_PATH=./msquiclib/lib" and try again.
 
